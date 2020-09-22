@@ -4,9 +4,7 @@ import {
   CardBody,
   CardImg,
   CardText,
-  CardTitle,
-  ListGroup,
-  ListGroupItem,
+  CardTitle
 } from "reactstrap";
 
 class DishDetail extends Component {
